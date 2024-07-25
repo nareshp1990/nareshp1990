@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naresh</h1>
-<h3 align="center">Goal-Oriented senior software engineer with 8+ years of experience on multiple domains and technologies</h3>
+<h3 align="center">Goal-Oriented senior software engineer with 10+ years of experience on multiple domains and technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nareshp1990&label=Profile%20views&color=0e75b6&style=flat" alt="nareshp1990" /> </p>
 
