@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **patchipulusu.naresh@gmail.com**
 
-- ⚡ Fun fact **I love to play badminton**
+- ⚡ Fun fact **I love to play badminton, cricket, table tennis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
