@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Terraform, System Designing**
 
-- 💬 Ask me about **Java, SpringBoot, Kubernetes**
+- 💬 Ask me about **Java, SpringBoot, Kubernetes, Azure Cloud**
 
 - 📫 How to reach me **patchipulusu.naresh@gmail.com**
 
