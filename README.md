@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Naresh%20Patchipulusu&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%7C%2012%2B%20Years&descSize=18&descAlignY=58&descColor=8b949e" width="100%" />
+<!-- Header Wave Banner - Vibrant Purple-Violet-Fuchsia Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D1C8A,50:7C3AED,100:C026D3&height=220&section=header&text=Naresh%20Patchipulusu&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%7C%2012%2B%20Years&descSize=19&descAlignY=58&descColor=DDD6FE" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/nareshp1990">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Senior+Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Kubernetes;Cloud-Native+%26+Event-Driven+Systems;12%2B+Years+of+Enterprise+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Senior+Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Kubernetes;Cloud-Native+%26+Event-Driven+Systems;12%2B+Years+of+Enterprise+Experience" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 <a href="https://twitter.com/npatchipulusu">
   <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=nareshp1990&style=for-the-badge&color=0e75b6&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=nareshp1990&style=for-the-badge&color=7C3AED&label=Profile+Views" />
 
 </div>
 
@@ -92,12 +92,12 @@ I'm a **Senior Backend Software Engineer** with **12+ years** of hands-on experi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nareshp1990&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshp1990&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nareshp1990&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=DDD6FE" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshp1990&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=DDD6FE" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nareshp1990&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nareshp1990&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C026D3&currStreakLabel=DDD6FE" />
 </div>
 
 ---
@@ -117,5 +117,5 @@ I'm a **Senior Backend Software Engineer** with **12+ years** of hands-on experi
   &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/naresh-patchipulusu">💼 linkedin.com/in/naresh-patchipulusu</a>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C026D3,50:7C3AED,100:3D1C8A&height=120&section=footer" width="100%" />
 </div>
