@@ -1,28 +1,99 @@
-<h1 align="center">Hi 👋, I'm Naresh</h1>
-<h3 align="center">Goal-Oriented senior software engineer with 10+ years of experience on multiple domains and technologies</h3>
+<h1 align="center">Naresh Patchipulusu</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nareshp1990&label=Profile%20views&color=0e75b6&style=flat" alt="nareshp1990" /> </p>
-
-- 🔭 I’m currently working on **API Modernization**
-
-- 🌱 I’m currently learning **Terraform, System Designing**
-
-- 💬 Ask me about **Java, SpringBoot, Kubernetes, Azure Cloud**
-
-- 📫 How to reach me **patchipulusu.naresh@gmail.com**
-
-- ⚡ Fun fact **I love to play badminton, cricket**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/npatchipulusu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="npatchipulusu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/naresh-patchipulusu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naresh-patchipulusu" height="30" width="40" /></a>
-<a href="https://fb.com/aswininaresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aswininaresh" height="30" width="40" /></a>
+<p align="center">
+  <b>Senior Backend Software Engineer &nbsp;|&nbsp; 12+ Years of Experience</b><br/>
+  Java · Spring Boot · Kubernetes · Azure · Kafka · CI/CD
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/naresh-patchipulusu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:patchipulusu.naresh@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/npatchipulusu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nareshp1990&style=for-the-badge&color=0e75b6" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshp1990&show_icons=true&locale=en&layout=compact" alt="nareshp1990" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nareshp1990&show_icons=true&locale=en" alt="nareshp1990" /></p>
+## Who I Am
+
+I'm a **Senior Backend Software Engineer** with **12+ years** of hands-on experience designing and delivering high-performance, cloud-native backend systems. I specialize in building scalable microservices architectures, event-driven platforms, and modernizing legacy APIs for enterprise-scale applications.
+
+I thrive in environments where reliability, performance, and clean architecture matter — and I bring a strong DevOps mindset to everything I build.
+
+---
+
+## Core Expertise
+
+| Area | Skills |
+|---|---|
+| **Languages** | Java (primary), Go, JavaScript/Node.js, Bash |
+| **Frameworks** | Spring Boot, Spring Cloud, Spring Security, GraphQL |
+| **Cloud & Infra** | Microsoft Azure, GCP, Kubernetes (AKS/GKE), Docker, Terraform |
+| **Messaging** | Apache Kafka, event-driven architecture, async processing |
+| **Databases** | MySQL, MongoDB, Redis, Cassandra, Elasticsearch |
+| **CI/CD** | GitHub Actions, JFrog Artifactory, Jenkins, ArgoCD |
+| **Observability** | Grafana, ELK Stack, Prometheus |
+| **AI Tooling** | GitHub Copilot (daily use) |
+| **Dev Tools** | Git, Postman, Nginx, Linux |
+
+---
+
+## What I Bring to the Table
+
+- **API Modernization** — led end-to-end transformation of legacy monoliths to microservices
+- **Cloud-Native Architecture** — designing and deploying production workloads on Azure with Kubernetes
+- **Event-Driven Systems** — building real-time data pipelines with Kafka at scale
+- **CI/CD Pipelines** — end-to-end automation using GitHub Actions + JFrog for artifact management
+- **AI-Augmented Development** — daily use of GitHub Copilot to accelerate delivery and code quality
+- **Cross-Domain Experience** — fintech, e-commerce, enterprise platforms
+- **Team Leadership** — mentoring engineers, driving technical decisions, collaborating with product
+
+---
+
+## Daily Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/JFrog-41BF47?style=flat-square&logo=jfrog&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nareshp1990&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshp1990&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+---
+
+## Currently
+
+- 🔭 Working on **API Modernization** at scale
+- 🌱 Deepening expertise in **Terraform & System Design**
+- 🤝 Open to **Senior / Staff Backend Engineer** roles
+
+---
+
+<p align="center">
+  <b>Open to new opportunities — let's connect!</b><br/>
+  <a href="mailto:patchipulusu.naresh@gmail.com">patchipulusu.naresh@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/naresh-patchipulusu">linkedin.com/in/naresh-patchipulusu</a>
+</p>
