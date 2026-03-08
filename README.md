@@ -92,8 +92,16 @@ I'm a **Senior Backend Software Engineer** with **12+ years** of hands-on experi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nareshp1990&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C026D3&currStreakLabel=DDD6FE&sideLabels=DDD6FE&dates=8B949E" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nareshp1990&theme=tokyonight" width="49%" />
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nareshp1990&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C026D3&currStreakLabel=DDD6FE&sideLabels=DDD6FE&dates=8B949E" width="100%" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nareshp1990&theme=tokyonight" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
