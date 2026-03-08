@@ -92,12 +92,12 @@ I'm a **Senior Backend Software Engineer** with **12+ years** of hands-on experi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nareshp1990&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=DDD6FE" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshp1990&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=DDD6FE" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nareshp1990&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C026D3&currStreakLabel=DDD6FE&sideLabels=DDD6FE&dates=8B949E" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nareshp1990&theme=tokyonight" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nareshp1990&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C026D3&currStreakLabel=DDD6FE" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nareshp1990&bg_color=0D1117&color=A855F7&line=7C3AED&point=C026D3&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
